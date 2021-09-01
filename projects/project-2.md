@@ -11,7 +11,7 @@ labels:
   - Simulink
   - Control Theory
 
-summary: Assigned multiple problem associated with control of a helicopter hub.
+summary: Assigned multiple problems associated with control of a helicopter hub.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/helicopterpic.png">
