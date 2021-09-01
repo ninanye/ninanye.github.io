@@ -70,6 +70,13 @@
         "Git/GitHub",
       ]
     }
+    {
+      "name": "Sports",
+      "level": "",
+      "keywords": [
+        "Partcipation in junior and senior national basketball teams.",
+      ]
+    }
   ],
   "education": [
     {
@@ -131,43 +138,35 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Nettverksdagene 2021 (Student Career Fair)",
+      "website": "https://www.nettverksdagene.no",
+      "position": "Head of Business Relations",
+      "startDate": "2019-09-20",
+      "endDate": "2021-02-20",
+      "summary": "Responsible for involving relevant companies with Nettverksdagene 2021.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Yearly career fair arranged by students studying Cybernetics and Robotics at NTNU."
       ]
     },
     {
-      "organization": "",
+      "organization": "UKA (Student festival)",
+      "website": "https://www.uka.no/",
+      "position": "Key Account Manager",
+      "startDate": "2018-09-15",
+      "endDate": "2019-11-30",
+      "summary": "Responsible for planning and managing the full relationship between UKA-19 and Accenture",
+      "highlights": [
+        "UKA is the biggest studentdriven cultural festival in Norway."      ]
+    },
+      {
+      "organization": "Omega linjeforening (Student organization)",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Member of Social Event Committee",
+      "startDate": "2018-09-15",
+      "endDate": "2020-09-15",
+      "summary": "Member of the social event committee, Phaestcom, in the student organization Omega.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+        "The work involved planning social events throughout the semester."      ]
     }
   ],
   "references": [
