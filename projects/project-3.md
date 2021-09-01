@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/annotate.jpg
+image: images/annotate.png
 title: Annotation 3D tool
 permalink: projects/annotation
 # All dates must be YYYY-MM-DD format!
