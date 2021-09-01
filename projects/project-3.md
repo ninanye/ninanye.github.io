@@ -10,12 +10,12 @@ labels:
   - AR development
   - Unity3d 
   - C#
-summary: Developed an 3D annotation-tool compitable with Microsoft Hololens 2 smart-glasses. 
+summary: Developed an 3D annotation-tool compatible with Microsoft Hololens 2 smart-glasses. 
 ---
 
 
 
-This summer we developed an 3D annotation application for Microsoft Hololens 2. We used development platform Unity 3D with C# as our programming language. Built polygons in Unity 3D with the use of trigonometry and quaternions for rotational movement. Unfortunately, the Github-repository for this tool can not be published as this project is work-related with confidential repositories. 
+This summer we developed an 3D annotation application for Microsoft Hololens 2. We used development-platform Unity 3D with C# as our programming language. Built polygons in Unity 3D with the use of trigonometry and quaternions for rotational movement. Unfortunately, the Github-repository for this tool can not be published as this project is work-related with confidential repositories. 
 
 
 
