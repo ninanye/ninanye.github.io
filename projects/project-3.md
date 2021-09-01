@@ -1,21 +1,22 @@
 ---
 layout: project
 type: project
-image: images/elevator.jpg
-title: Elevator Project
-permalink: projects/elevator
+image: images/annotate.jpg
+title: Annotation 3D tool
+permalink: projects/annotation
 # All dates must be YYYY-MM-DD format!
-date: 2021-08-30
+date: 2021-09-01
 labels:
-  - Real-time programming
-  - Network 
-  - Go
-summary: Created software for developing n elevators with a UDP peer-to-peer architecture. 
+  - AR development
+  - Unity3d 
+  - C#
+summary: Developed an 3D annotation-tool compitable with Microsoft Hololens 2 smart-glasses. 
 ---
 
-<img class="ui image" src="../images/flowchart.png">
 
 
-In this project we implemented a real-time system for controlling n elevators in Golang. Flowchart describes how the system handles network packet loss where all peers have to acknowledge that a message has been receieved. Further description and solution to the problem can be found [here](https://github.com/ninanye/TTK4145-Heis).
+This summer we developed an 3D annotation application for Microsoft Hololens 2. We used development platform Unity 3D with C# as our programming language. Built polygons in Unity 3D with the use of trigonometry and quaternions for rotational movement. Unfortunately, the Github-repository for this tool can not be published as this project is work-related with confidential repositories. 
+
+
 
 
