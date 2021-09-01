@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/helicopter.jpeg
 title: Helicopter project
 permalink: projects/helicopter
 # All dates must be YYYY-MM-DD format!
