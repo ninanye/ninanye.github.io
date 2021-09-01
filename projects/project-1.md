@@ -10,7 +10,7 @@ labels:
   - Real-time programming
   - Network 
   - Go
-summary: Created software for developing n elevators with a UDP peer-to-peer architecture. 
+summary: Created software for developing n elevators with an UDP peer-to-peer architecture. 
 ---
 
 <img class="ui image" src="../images/flowchart.png">
