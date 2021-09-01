@@ -14,14 +14,11 @@ summary: Created software for developing n elevators with a UDP peer-to-peer arc
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/flowchart.png">
 </div>
 
 
-In this project we implemented a real-time system for controlling n elevators in Golang. Further description and solution to the problem can be found [here](https://github.com/ninanye/TTK4145-Heis).
+In this project we implemented a real-time system for controlling n elevators in Golang. Flowchart describes how the system handles network packet loss where all peers have to acknowledge that a message has been receieved. Further description and solution to the problem can be found [here](https://github.com/ninanye/TTK4145-Heis).
 
 
 
