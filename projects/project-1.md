@@ -23,17 +23,7 @@ summary: Created software for developing n elevators with a UDP peer-to-peer arc
 
 In this project we implemented a real-time system for controlling n elevators in Golang. Further description and solution to the problem can be found [here](https://github.com/ninanye/TTK4145-Heis).
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+
 
 
 
