@@ -52,11 +52,13 @@
       "level": "",
       "keywords": [
         "C",
+        "C#",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Go",
+        "Python",
+        "Matlab"
       ]
     },
     {
@@ -66,17 +68,25 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
+      "institution": "Norwegian University of Science and Technology, NTNU",
+      "area": "Cybernetics & Robotics (expected Spring, 2023)",
+      "studyType": "M.S.",
+      "startDate": "2018-08-10",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Cybernetics & Robotics (exchange student, expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08-15",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -85,27 +95,37 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Cisco",
+      "position": "Software engineering intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2021-06-15",
+      "endDate": "2021-08-15",
+      "summary": "Developed software-applications for mixed reality smart-glasses Microsoft HoloLens 2.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Development in Unity 3D and C#",
+        "Annotation-tool derived from quaternion and mathematical equations"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "IE Faculty, NTNU",
+      "position": "Learning assistant",
+      "website": "",
+      "startDate": "2020-01-15",
+      "endDate": "2021-06-15",
+      "summary": "Part-time learning assistant of the Faculty of Information Technology, NTNU. 
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Procedural and Object-Oriented Programming, C++",
+        "Information-technology, Introduction, Python"
+      ]
+    },
+ {
+      "company": "Intersport,
+      "position": "Sales associate, part time",
+      "website": "",
+      "startDate": "2018-01-15",
+      "endDate": "2020-12-30",
+      "summary": "Sales associate in sport- and footwear department.  
+      "highlights": [
       ]
     }
   ],
