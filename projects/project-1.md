@@ -5,7 +5,7 @@ image: images/elevator.jpg
 title: Elevator Project
 permalink: projects/elevator
 # All dates must be YYYY-MM-DD format!
-date: 2021-08-31
+date: 2021-08-30
 labels:
   - Real-time programming
   - Network 
