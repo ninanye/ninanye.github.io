@@ -14,6 +14,8 @@ summary: Developed an 3D annotation-tool compatible with Microsoft Hololens 2 sm
 ---
 
 
+<img class="ui medium right floated rounded image" src="../images/unity.png">
+
 
 This summer we developed an 3D annotation application for Microsoft Hololens 2. We used development-platform Unity 3D with C# as our programming language. Built polygons in Unity 3D with the use of trigonometry and quaternions for rotational movement. Currently, the project allows the user to draw in 3D with a 3D line, erase specific lines and clearing the whole space. One can also change the colour and width of the line.
 
