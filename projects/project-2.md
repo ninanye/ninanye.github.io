@@ -16,4 +16,6 @@ summary: Assigned multiple problems associated with control of a helicopter hub.
 
 <img class="ui medium right floated rounded image" src="../images/helicopterpic.png">
 
-We were assigned different control theory problems ranging from mathematical, theoretical modelling of the system but also controlling the helicopter using Simulink and MATLAB scripts. The report is published <a href="https://github.com/ninanye/helicopter_lab"><i class="large github icon"></i>here</a>.
+In this helicopter lab we calculated an optimal trajectory and input of the helicopter by minimizing a quatratic optimization problem where we penalized deviations from the reference trajectory. For this lab we used Simulink and MATLAB scripts to run the helicopter. 
+
+The report is published <a href="https://github.com/ninanye/helicopter_lab"><i class="large github icon"></i>here</a>.
