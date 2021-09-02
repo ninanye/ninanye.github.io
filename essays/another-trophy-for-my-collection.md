@@ -9,6 +9,8 @@ labels:
   - Javascript
 ---
 
+<img class="ui medium right floated rounded image" src="../images/star.png">
+
 As a 4th year computer-science student, I have developed software in programming languages like C++, C, C#, Go, Python and Java. It might upset many web-developers out there that JavaScript is yet to be added to my programming trophy-collection. I was therefore thrilled to find out that the ICS-314 class gives me the opportunity to get front-end JavaScript-experience and the possibility to discover a potential new favorite programming-language.  
 
 ## First thoughts from a low-level programmer perspective 
