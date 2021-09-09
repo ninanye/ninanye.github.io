@@ -29,7 +29,7 @@ However, as mentioned, there exists better and smarter questions on Stack Overfl
 The person has also followed up with a respond to the post saying that the problem is fixed and how it can be fixed by others possibly coming across the same problem. This will help others searching the archive to know which solution that helped you and is also making everyone who assisted feel a satisfying sense of closure about the problem. 
 
 ## There is such a thing as a stupid question
-After reading through a lot of Stack Overflow posts this morning it has made me more aware about the importance of asking good and smart questions. As a software engineer there are an endless amount of problems you will encounter along your way, and a good question will not only profit the Stack Overflow community, but also give you a deeper and more thorough understanding of the problem you are facing.  From this day forward I will for sure be more supportive of stating out: “That was actually a very stupid question!”. 
+After reading through a lot of Stack Overflow posts this morning it has made me more aware about the importance of asking good and smart questions. As a software engineer there are an endless amount of problems you will encounter along your way, and a good question will not only profit the Stack Overflow community, but also give you a deeper and more thorough understanding of the problem you are facing.  From this day forward I will for sure be more consistent of claiming the fact that: “That was actually a very stupid question!”. 
 
 
 
