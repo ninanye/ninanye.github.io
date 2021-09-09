@@ -10,7 +10,7 @@ labels:
   - Eric Raymond
 ---
 
-<img class="ui medium right floated rounded image" src="../images/question.png">
+<img class="ui medium right floated rounded image" src="../images/question.jpeg">
 
 As a 4th year computer science student, I have had lots of questions regarding seemingly non-apprehensible error messages in different programming languages. I have received valuable answers to these questions by professors and friends, however, a simple Google-search is what has helped me the most in understanding my faulty code. When I have googled my questions, I have almost always been redirected to Stack Overflow where someone already has experienced the same type of difficulties as I have. They have asked smart questions that is informative and concise enough for me to easily take advantage of the forum-post. However, as I was made aware of in the essay “How to Ask Questions the Smart Way” by Eric Steven Raymond, there exists tons of stupid questions out on Stack Overflow that will never be found through a Google-search (except if you are a “loser” yourself) and will probably never be answered. These questions tend to clearly show a lack of effort in figuring out the problem themselves, as well as they do not seem to make any effort in facilitating the responders on Stack Overflow with an informative, grammatically correct and polite question. Well, maybe the phrase “There is no such thing as a stupid question” should be reconsidered changed to: “Yes, there is such a thing as a stupid question”?
 
