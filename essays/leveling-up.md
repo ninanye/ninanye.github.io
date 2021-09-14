@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - Low-level
   - Future
+  - Software development
 ---
 
 <img class="ui medium right floated rounded image" src="../images/president.png">
