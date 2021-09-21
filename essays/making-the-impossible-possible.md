@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Making the impossible possible
+title: Making the Impossible Possible
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-21
 labels:
