@@ -13,7 +13,7 @@ labels:
   - CSS
 ---
 
-<img class="ui medium right floated rounded image" src="../images/norgesbasket.png">
+<img class="ui big image" src="../images/norgesbasket.png">
 
 Last week I was introduced to the software framework Semantic UI. Today, a week later, I know how to make a simple layout for a web page using intuitive classes and other easy-to-use features from the UI framework. Whenever I want to make a two-column grid container, I can just add the class “two column grid container” to my HTML-file. Thanks to Semantic UI the UI for my web pages will be consistent and intuitive, where other developers can maintain and further develop the HTML code base. The image shows one of my first wonderful and simple web sites using the Semantic UI framework! However, while most developers know how to write complex HTML-code, there exists tons of UI frameworks that many people are unfamiliar with. Learning and understanding the syntax, tooling and philosophy behind the functions of various frameworks could be time-demanding and might not be the best use of a developer’s time. 
 
