@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/elev.jpeg
+image: images/bridging-the-gap.png
 title: Bridging the Gap web application
 permalink: projects/bridging-the-gap
 # All dates must be YYYY-MM-DD format!
